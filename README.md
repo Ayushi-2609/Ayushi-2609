@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushi-2609
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning Flutter and AI/ML
-- 💞️ I’m looking to collaborate on python flask and SQL projects
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on python and SQL projects
 - 📫 How to reach me :@Ayushi_gupta26
 
 <!---
